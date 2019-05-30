@@ -1,0 +1,76 @@
+{
+  "now": 1559207400,
+  "now_dt": "2019-05-30T09:10:00.600Z",
+  "info": {
+    "lat": 55.75396,
+    "lon": 37.620393,
+    "url": "https://yandex.ru/pogoda/?lat=55.75396&lon=37.620393"
+  },
+  "fact": {
+    "temp": 27,
+    "feels_like": 26,
+    "icon": "bkn_d",
+    "condition": "cloudy",
+    "wind_speed": 4.3,
+    "wind_gust": 12.6,
+    "wind_dir": "sw",
+    "pressure_mm": 749,
+    "pressure_pa": 999,
+    "humidity": 49,
+    "daytime": "d",
+    "polar": false,
+    "season": "spring",
+    "obs_time": 1559206800
+  },
+  "forecast": {
+    "date": "2019-05-30",
+    "date_ts": 1559163600,
+    "week": 22,
+    "sunrise": "03:55",
+    "sunset": "20:59",
+    "moon_code": 6,
+    "moon_text": "decreasing-moon",
+    "parts": [
+      {
+        "part_name": "evening",
+        "temp_min": 18,
+        "temp_max": 22,
+        "temp_avg": 20,
+        "feels_like": 21,
+        "icon": "bkn_-ra_d",
+        "condition": "cloudy-and-light-rain",
+        "daytime": "d",
+        "polar": false,
+        "wind_speed": 2,
+        "wind_gust": 4.1,
+        "wind_dir": "nw",
+        "pressure_mm": 750,
+        "pressure_pa": 1000,
+        "humidity": 80,
+        "prec_mm": 0.3,
+        "prec_period": 360,
+        "prec_prob": 60
+      },
+      {
+        "part_name": "night",
+        "temp_min": 15,
+        "temp_max": 17,
+        "temp_avg": 16,
+        "feels_like": 15,
+        "icon": "bkn_-ra_n",
+        "condition": "overcast-and-light-rain",
+        "daytime": "n",
+        "polar": false,
+        "wind_speed": 2.7,
+        "wind_gust": 5.6,
+        "wind_dir": "ne",
+        "pressure_mm": 751,
+        "pressure_pa": 1002,
+        "humidity": 85,
+        "prec_mm": 1.2,
+        "prec_period": 360,
+        "prec_prob": 70
+      }
+    ]
+  }
+}

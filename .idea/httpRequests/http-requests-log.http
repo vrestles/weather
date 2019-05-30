@@ -1,0 +1,57 @@
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-30T121000.200.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-30T120952.200.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-30T120824.403.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-29T074917.200.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-29T074828.403.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-29T074650.403.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.7558&lon=37.6173&lang="ru_RU"
+
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-29T074607.403.json
+
+###
+
+GET https://api.weather.yandex.ru/v1/informers?lat=55.7558&lon=37.6173&lang="ru_RU"
+X-Yandex-API-Key: f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+<> 2019-05-29T074524.403.json
+
+###
+
