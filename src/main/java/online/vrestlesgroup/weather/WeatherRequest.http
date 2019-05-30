@@ -1,0 +1,4 @@
+GET https://api.weather.yandex.ru/v1/informers?lat=55.75396&lon=37.620393
+X-Yandex-API-Key:f84e1580-6fd4-4338-aaf3-41364b1b1204
+
+###

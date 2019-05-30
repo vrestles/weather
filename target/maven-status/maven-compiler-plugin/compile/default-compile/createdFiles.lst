@@ -1,0 +1,5 @@
+online/vrestlesgroup/weather/Application.class
+online/vrestlesgroup/weather/Data/CityWeather.class
+online/vrestlesgroup/weather/Controller/GreetingController.class
+online/vrestlesgroup/weather/Service/WeatherService.class
+online/vrestlesgroup/weather/Data/CitiesWeather.class
