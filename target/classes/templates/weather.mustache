@@ -18,7 +18,6 @@
         .main-form
         {
             /*	border: 1px solid black;*/
-            width: 1000px;
             margin: 0 auto;
             padding: 10px;
             display: flex;
@@ -33,13 +32,13 @@
             border-radius: 10px;
             height: 200px;
             width: 330px;
-            margin: 10px;
             padding: 20px;
-            background-size: cover;
             display: flex;
             flex-direction: column;
             justify-content: flex-start;
             align-items: stretch;
+            background-size: cover;
+            margin: 0 10px;
         }
 
         .weather-card__city-text
@@ -63,19 +62,19 @@
 
         #moscow-img
         {
-            background-image: url('templates/img/moscow.jpg');
+            background-image: url('https://lh3.google.com/u/0/d/1PihUQ5kXM8AlwfePw8vTGrtTP3iqGGdg=w2472-h2458-iv1');
             background-color: #ff6666;
         }
 
         #spb-img
         {
-            background-image: url('templates/img/spb.jpg');
+            background-image: url('https://lh3.google.com/u/0/d/114fIW1NIRNe8nczaDDuayHBsW1p_-ffT=w2472-h2458-iv1');
             background-color: #a8d8ff;
         }
 
         #tokyo-img
         {
-            background-image: url('templates/img/tokyo.jpg');
+            background-image: url('https://lh3.google.com/u/0/d/184bD1u7jHzjecdmCleAohkmFp7QMSFzV=w2472-h2458-iv1');
             background-color: #ffb833;
         }
 
@@ -84,6 +83,13 @@
             .main-form
             {
                 display: block;
+            }
+
+            .weather-card
+            {
+                background-size: cover;
+                background-repeat: no-repeat;
+                margin: 20px auto;
             }
         }
     </style>
